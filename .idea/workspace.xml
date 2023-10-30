@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca42470-8e75-4b4d-a294-a0a403c91c14" name="Changes" comment="Initial commit">
+    <list default="true" id="eca42470-8e75-4b4d-a294-a0a403c91c14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2/Primitives.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/Wrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2/Wrappers.java" afterDir="false" />
     </list>
