@@ -1,0 +1,51 @@
+Index: src/main/java/Homework2/Primitives.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Homework2;public class Primitives {\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Homework2/Primitives.java b/src/main/java/Homework2/Primitives.java
+--- a/src/main/java/Homework2/Primitives.java	(revision 43a0f9384530f8a274e92a9dff1625e139787ac0)
++++ b/src/main/java/Homework2/Primitives.java	(date 1698703679157)
+@@ -1,2 +1,15 @@
+-package Homework2;public class Primitives {
+-}
++package Homework2;
++
++public class Primitives {
++    public static void main(String[] args) {
++        int a = 3000;
++        byte b = 2;
++        short c = 144;
++        long d = 8349768799088L;
++        double e = 55.55;
++        float f = 73364876.9458F;
++        boolean isRight = true;
++        boolean isLeft = false;
++        char symbol = 's';
++    }
++}
+\ No newline at end of file
+Index: src/main/java/Homework2/Wrappers.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Homework2;public class Wrappers {\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Homework2/Wrappers.java b/src/main/java/Homework2/Wrappers.java
+--- a/src/main/java/Homework2/Wrappers.java	(revision 43a0f9384530f8a274e92a9dff1625e139787ac0)
++++ b/src/main/java/Homework2/Wrappers.java	(date 1698707188943)
+@@ -1,2 +1,10 @@
+-package Homework2;public class Wrappers {
++package Homework2;
++
++
++public class Wrappers {
++    public static void main(String[] args) {
++        Integer a = new Integer(3000);
++
++    }
++
+ }
