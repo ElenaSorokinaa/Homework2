@@ -1,4 +1,4 @@
-package Homework2;
+package Homework2.AddHomeworks.Forth;
 
 public class Dog implements Runnable {
     @Override

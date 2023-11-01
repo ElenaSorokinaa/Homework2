@@ -1,4 +1,4 @@
-package Homework2;
+package Homework2.Basic;
 
 public class Universe {
     public static void main(String[] args) {
