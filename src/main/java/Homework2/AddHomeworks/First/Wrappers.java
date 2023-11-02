@@ -2,13 +2,28 @@ package Homework2.AddHomeworks.First;
 
 public class Wrappers {
     public static void main(String[] args) {
-        Integer i = Integer.valueOf(3000);
-        Long l = Long.valueOf(948768768686L);
-        Byte b = Byte.valueOf(String.valueOf(120));
-        Short s = Short.valueOf(String.valueOf(32000));
-        Character symbol = Character.valueOf('h');
-        Float f = Float.valueOf(56.8567839f);
-        Double d = Double.valueOf(69.39847757937);
-        Boolean by = Boolean.valueOf(true);
+        Integer i0b = 3000;
+        int i = i0b;
+
+        Long l0b = 948768768686L;
+        long l = l0b;
+
+        Byte b0b = 120;
+        byte b = b0b;
+
+        Short s0b = 32000;
+        short s = s0b;
+
+        Character c0b = 'h';
+        char c = c0b;
+
+        Float f0b = 56.8567839f;
+        float f = f0b;
+
+        Double d0b = 69.39847757937;
+        double d = d0b;
+
+        Boolean b10b = true;
+        boolean b1 = b10b;
     }
 }
