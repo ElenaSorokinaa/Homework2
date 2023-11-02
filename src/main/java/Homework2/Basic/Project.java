@@ -7,7 +7,9 @@ public class Project {
         int support = 1;
         int testerOnProject = programmer * tester;
         int supportOnProject = support * programmer;
+
         int allProjectSpecialists = programmer + testerOnProject + supportOnProject;
+
         System.out.println(programmer + " программистов необходимо для проекта");
         System.out.println(testerOnProject + " тестировщиков необходимо для проекта");
         System.out.println(supportOnProject + " специалистов поддержки необходимо для проекта");

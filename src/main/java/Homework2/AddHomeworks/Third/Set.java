@@ -5,6 +5,7 @@ public class Set {
         Cat begemot = new Cat("begemot");
         System.out.println("Раньше кота звали " + begemot.getName());
         begemot.setName("begemotik");
+
         System.out.println("Теперь он " + begemot.getName());
     }
 }
